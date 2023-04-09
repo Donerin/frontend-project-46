@@ -1,8 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Donerin/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/Donerin/frontend-project-46/actions)
-[![Linter](https://github.com/Donerin/frontend-project-46/actions/workflows/linter.yml/badge.svg)](https://github.com/Donerin/frontend-project-46/actions/workflows/linter.yml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/cd605c9a768d6f850297/maintainability)](https://codeclimate.com/github/Donerin/frontend-project-46/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/cd605c9a768d6f850297/test_coverage)](https://codeclimate.com/github/Donerin/frontend-project-46/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/9315ccc3c0e3d0f57592/maintainability)](https://codeclimate.com/github/Donerin/frontend-project-46/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/9315ccc3c0e3d0f57592/test_coverage)](https://codeclimate.com/github/Donerin/frontend-project-46/test_coverage)
 
 ### Description
 
